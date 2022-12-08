@@ -3,7 +3,7 @@
 void create(){//creation of linklist.
     int suraj=1;
     int joshi;
-     struct node{
+     struct node{//here we are creating a node which contains data and address part:
         int data;
         struct node*next;
     };
