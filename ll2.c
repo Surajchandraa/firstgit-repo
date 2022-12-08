@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 #include<stdlib.h>
 void create(){//creation of linklist.
     int suraj=1;
